@@ -1,0 +1,2 @@
+# gameddtconfig
+use for config
